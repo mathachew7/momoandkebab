@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+.accent-text {
+    color: #19B5FE !important
+}
+
+#countdown .number-container span,
+#home ul li .main_content .home-big-text span {
+    color: #19B5FE
+}
+
+.accent-bg {
+    background: #19B5FE !important
+}
+
+.header .save-date:hover,
+.header .save-date:hover i,
+.scrollToTop:hover {
+    background: #19B5FE
+}
+
+.preloder .preloader-container .preloader-content .preloader-round:after {
+    border-color: #19B5FE transparent transparent
+}
+
+.btn-fill:active,
+.btn-fill:focus,
+.btn-fill:hover {
+    border: 2px solid #19B5FE;
+    background-color: #19B5FE
+}
+
+section .title-container:after {
+    border-top: 3px solid #19B5FE
+}
+
+#service .service-box:hover .icon-container i,
+#service .service-box:hover .icon-container span {
+    color: #19B5FE !important
+}
+
+#about .profile-section .skill .progress-bar-style .progress-name span,
+#about .team-container span,
+#under-construction-countdown .number-container span {
+    color: #19B5FE
+}
